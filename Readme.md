@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Илья Соболев](https://up.htmlacademy.ru/javascript/9/user/398245).
-* Наставник: `Неизвестно`.
+* Наставник: [Вадим Горбачев].
 
 ---
 
